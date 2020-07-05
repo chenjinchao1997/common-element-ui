@@ -7,7 +7,6 @@
 import Vue from "vue";
 export default Vue.extend({
   data() {
-    console.log("log");
     return {};
   }
 });
